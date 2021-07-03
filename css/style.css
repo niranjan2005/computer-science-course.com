@@ -6,7 +6,7 @@
 }
 
 header{
-     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../5.jpg);
+     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../world.jpg);
      height:100vh;
      background-size: cover;
      background-position: center;
@@ -41,6 +41,10 @@ ul li.active a{
 	float: left;
 	width: 150px;
 	height: auto;
+	position: absolute;
+	top: 10%;
+	left: 8%;
+	transform: translate(-50%,-50%);
 }
 .main{
 	max-width: 1200px;
@@ -48,7 +52,7 @@ ul li.active a{
 }
 .title h1{
 	position: absolute;
-	top: 50%;
+	top: 40%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 }
@@ -296,5 +300,123 @@ p1{
 p1{
 	color: #fff;
 	font-size: 40px;
+	font-style: Arial Unicode MS;
+}
+p2{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p2{
+	color: #fff;
+	font-size: 25px;
+	font-style: Arial Unicode MS;
+}
+.button20{
+	position: absolute;
+	top: 6.5%;
+	left: 42%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+	border: 1px solid transparent;
+	padding: 10px 30px;
+	color:#fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000;
+}
+p49{
+	position: absolute;
+	top: 60%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p49{
+	color: #fff;
+	font-size: 36px;
+	font-style: Arial Unicode MS;
+}
+p50{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p50{
+	color: #fff;
+	font-size: 37px;
+	font-style: Arial Unicode MS;
+}
+p51{
+	position: absolute;
+	top: 80%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p51{
+	color: #fff;
+	font-size: 33px;
+	font-style: Arial Unicode MS;
+}
+p52{
+	position: absolute;
+	top: 15%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p52{
+	color: #fff;
+	font-size: 33px;
+	font-style: Arial Unicode MS;
+}
+p53{
+	position: absolute;
+	top: 90%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p53{
+	color: #fff;
+	font-size: 33px;
+	font-style: Arial Unicode MS;
+}
+.logos img{
+	float: left;
+	width: 150px;
+	height: auto;
+	position: absolute;
+	top: 32%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+p54{
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p54{
+	color: #fff;
+	font-size: 33px;
+	font-style: Arial Unicode MS;
+}
+p30{
+	position: absolute;
+	top: 54%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+p30{
+	color: #fff;
+	font-size: 47px;
 	font-style: Arial Unicode MS;
 }
